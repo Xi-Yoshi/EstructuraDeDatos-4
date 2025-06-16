@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Restaurante {
     private int mesas2 = 10;
     private int mesas4 = 8;
-    private int mesas6 = 7;
+    private int mesas6 = 6;
     private Queue<Cliente> colaEspera = new LinkedList<>();
 
     private static class Cliente {
